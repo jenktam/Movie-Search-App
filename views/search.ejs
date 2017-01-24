@@ -1,0 +1,14 @@
+<% include partials/header %>
+
+<h1>Search for a Movie <i class="fa fa-search" aria-hidden="true"></i></h1>
+<p>Type in a search term to search for a movie. Using the OMDb API, this application will find the movies matching your query.</p>
+
+<form action="/results" method="GET">
+    <div class="container">
+        <input type="text" name="search" placeholder="Search Term">
+        <br>
+        <input type="submit">
+    </div>
+</form>
+
+<% include partials/footer %>
