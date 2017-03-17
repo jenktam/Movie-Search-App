@@ -4,4 +4,4 @@ This app uses JSON data from the Open Movie Database API (OMDb API) to display m
 
 This exercise was one of my first experiences using express.js, node.js, and APIs to develop an interactive web application.
 
-To view the app, please check it out [here](https://webdevdemo-jentam.c9users.io/)!
+To view the app, please check it out [here](https://sleepy-badlands-59462.herokuapp.com/results?search=happy)!
